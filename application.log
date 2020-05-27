@@ -1,0 +1,107 @@
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139796255446848:new transaction
+DEBUG:txn.139796255446848:commit <Connection at 7f24d42f68d0>
+DEBUG:txn.139796255446848:commit
+DEBUG:txn.139796255446848:new transaction
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+WARNING:ZODB.FileStorage:Ignoring index for /home/robert/Escritorio/Proyecto FUNCIONA PYCHARM/Aguatería v1.0.2/data/mydata.fs
+DEBUG:txn.139832172492608:new transaction
+DEBUG:txn.139832172492608:commit
+DEBUG:txn.139832172492608:new transaction
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139831183763264:new transaction
+DEBUG:txn.139831183763264:commit
+DEBUG:txn.139831183763264:new transaction
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140283487635264:new transaction
+DEBUG:txn.140283487635264:commit
+DEBUG:txn.140283487635264:new transaction
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140650604635968:new transaction
+DEBUG:txn.140650604635968:commit
+DEBUG:txn.140650604635968:new transaction
+DEBUG:txn.140650604635968:commit <Connection at 7febbfc2ad68>
+DEBUG:txn.140650604635968:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139759345456960:new transaction
+DEBUG:txn.139759345456960:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140648875919168:new transaction
+DEBUG:txn.140648875919168:commit
+DEBUG:txn.140648875919168:new transaction
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140260872927040:new transaction
+DEBUG:txn.140260872927040:commit
+DEBUG:txn.140260872927040:new transaction
+DEBUG:txn.140260872927040:commit <Connection at 7f91016265f8>
+DEBUG:txn.140260872927040:commit
+DEBUG:txn.140260872927040:new transaction
+DEBUG:txn.140260872927040:commit <Connection at 7f91016265f8>
+DEBUG:txn.140260872927040:commit
+DEBUG:txn.140260872927040:new transaction
+DEBUG:txn.140260872927040:commit <Connection at 7f91016265f8>
+DEBUG:txn.140260872927040:commit
+DEBUG:txn.140260872927040:new transaction
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139882239809344:new transaction
+DEBUG:txn.139882239809344:commit
+DEBUG:txn.139882239809344:new transaction
+DEBUG:txn.139882239809344:commit <Connection at 7f38d91796d8>
+DEBUG:txn.139882239809344:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139662601422656:new transaction
+DEBUG:txn.139662601422656:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139665975576384:new transaction
+DEBUG:txn.139665975576384:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139698350212928:new transaction
+DEBUG:txn.139698350212928:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140028024391488:new transaction
+DEBUG:txn.140028024391488:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139817748952896:new transaction
+DEBUG:txn.139817748952896:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140523685517120:new transaction
+DEBUG:txn.140523685517120:commit
+DEBUG:txn.140523685517120:new transaction
+DEBUG:txn.140523685517120:commit <Connection at 7fce323c36a0>
+DEBUG:txn.140523685517120:commit
+DEBUG:txn.140523685517120:new transaction
+DEBUG:txn.140523685517120:commit <Connection at 7fce323c36a0>
+DEBUG:txn.140523685517120:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139635489863488:new transaction
+DEBUG:txn.139635489863488:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140588943828800:new transaction
+DEBUG:txn.140588943828800:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140283767936832:new transaction
+DEBUG:txn.140283767936832:commit
+DEBUG:txn.140283767936832:new transaction
+DEBUG:txn.140283767936832:commit <Connection at 7f96562f5f60>
+DEBUG:txn.140283767936832:commit
+DEBUG:txn.140283767936832:new transaction
+DEBUG:txn.140283767936832:commit <Connection at 7f96562f5f60>
+DEBUG:txn.140283767936832:commit
+DEBUG:txn.140283767936832:new transaction
+DEBUG:txn.140283767936832:commit <Connection at 7f96562f5f60>
+DEBUG:txn.140283767936832:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.140584199821120:new transaction
+DEBUG:txn.140584199821120:commit
+DEBUG:ZODB.BaseStorage:create storage data/mydata.fs
+DEBUG:txn.139835124623168:new transaction
+DEBUG:txn.139835124623168:commit
+DEBUG:txn.139835124623168:new transaction
+DEBUG:txn.139835124623168:commit <Connection at 7f2de0f5af98>
+DEBUG:txn.139835124623168:commit
+DEBUG:txn.139835124623168:new transaction
+DEBUG:txn.139835124623168:commit <Connection at 7f2de0f5af98>
+DEBUG:txn.139835124623168:commit
+DEBUG:txn.139835124623168:new transaction
+DEBUG:txn.139835124623168:commit <Connection at 7f2de0f5af98>
+DEBUG:txn.139835124623168:commit

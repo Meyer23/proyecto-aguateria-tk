@@ -1,0 +1,38 @@
+
+Aplicación: Administración de una Aguatería Vecinal. 
+Autor: Est. Robert Meyer. 
+Contacto: rmeyer93@fpuna.edu.py
+Versión actual del sistema: v1.0.1
+Última actualización: 07/01/2020
+GitHub: https://github.com/Meyer23/aguateria
+
+- - - - - - - - - - - - - -
+
+Información breve del sistema: 
+
+El sistema consiste en brindar ciertos servicios básicos de administración a una pequeña aguatería vecinal (sin fines de lucro). 
+Hasta la versión actual (Aguatería v1.0.1) se podrá agregar usuarios, buscar usuarios, agregar empleados, buscar empleados y agregar solicitudes. Asi también, buscar las solicitudes, buscar las ordenes de trabajo y modificar una orden de trabajo. 
+
+Detalles de la versión v1.0.1: 
+-Se ha proporcionado una vista gráfica al sistema.
+-Se ha agregado la opción de 'Modificar' una orden de trabajo. Las ordenes son cargadas por defecto como 'Sin ejecutar'. 
+el administrador podrá hacer 'click' en el botón modificar. Luego de eso, se mostrará un mensaje de alerta en la pantalla. El estado de la orden de trabajo pasará a 'Ejecutado'. 
+
+Requisitos para el uso de la aplicación:
+ 
+- Debe utilizar un sistema basado en distribuciones GNU/Linux 
+- Debe copiar los archivos que contiene el fichero "Aguatería v1.0.0" en el ordenador a utilizar. 
+- Asegurese de tener instalado Python3 (ejecute en la terminal de su sistema el comando: ~$ python3 --version)
+- Verifique si tiene instalado la herramienta 'tkinter'. Si no lo tiene, ejecute en la terminal de su sistema el comando: ~$ sudo apt-get install python3-tk)
+- Debe tener instalado ZODB (Si no lo tiene, ejecute en la terminal de su sistema: ~$ apt-get install python-zodb) 
+- Ejecute la terminal de su sistema en la ubicación en el cual se encuentran los archivos de la aplicación: 
+	Ejemplo: usuario@ubuntu-pc:~/Escritorio/Aguatería v1.0.1$ 
+- Ejecute el comando de Python en la terminal: python3 
+- Escriba lo siguiente y presione la tecla enter: exec(open("Menu_tkinter.py").read())
+
+Eso es todo, el sistema está listo para ser utilizado. 
+
+
+- - - - - - - - - - - - - -
+
+ 
